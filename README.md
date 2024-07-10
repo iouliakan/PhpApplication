@@ -1,4 +1,4 @@
-#Overview 
+# Overview 
 This project is a customer management system built with PHP and CodeIgniter 4. It provides functionality for both administrators and customers.
 
 **Admin Functionality:** Admins can view all customers, see the messages sent by each customer, and view registration dates.
