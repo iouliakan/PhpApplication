@@ -1,12 +1,15 @@
 # Overview 
 This project is a customer management system built with PHP and CodeIgniter 4. It provides functionality for both administrators and customers.
 
-**Admin Functionality:** Admins can view all customers, see the messages sent by each customer, and view registration dates.
+**Admin Functionality:**
+Admins can view all customers, see the messages sent by each customer, and view registration dates.
 Admins can perform CRUD (Create, Read, Update, Delete) operations on customers.
-**Customer Functionality:** Customers can register, update their details, and send messages. They can also restore their password if forgotten.
-**Email Notifications:** Upon registration, customers receive a confirmation email. Both admins and customers can restore passwords via email.
+**Customer Functionality:** 
+Customers can register, update their details, and send messages. They can also restore their password if forgotten.
+**Email Notifications:** 
+Upon registration, customers receive a confirmation email. Both admins and customers can restore passwords via email.
 
-#Feautures 
+# Feautures 
 **Admin Feautures**
 -View all customers
 -View messages sent by each customer
@@ -21,14 +24,14 @@ Admins can perform CRUD (Create, Read, Update, Delete) operations on customers.
 -Email confirmation upon registration
 
 
-#Requirements 
+# Requirements 
 -PHP 7.3 or higher
 -MySQL or MariaDB
 -Composer
 -CodeIgniter 4
 
 
-#Installation 
+# Installation 
 
 
 
