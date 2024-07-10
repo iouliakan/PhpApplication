@@ -56,7 +56,8 @@ composer install
 
 ### 3. Environment Configuration 
 Create a copy of the .env file:
-```bash
+
+```
 cp env.example .env
 ```
 
