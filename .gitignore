@@ -165,3 +165,4 @@ app/Config/Database.php
 
 
 app/config/Email.php
+# app/Views/admin/encrypt_password.php
