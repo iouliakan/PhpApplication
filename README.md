@@ -38,8 +38,8 @@ Follow these steps to set up the project on your local machine:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/repository.git
-cd repository
+git clone https://github.com/iouliakan/PhpApplication.git
+cd PhpApplication
 
 Additionally, make sure that the following extensions are enabled in your PHP:
 
