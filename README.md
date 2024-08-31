@@ -116,7 +116,5 @@ php spark serve
 Now you can access the application at `http://localhost:8080.`
 
 
-#### License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
